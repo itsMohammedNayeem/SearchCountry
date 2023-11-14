@@ -1,0 +1,32 @@
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter_header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.count {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.button {
+  /* place all buttons in a row and center them */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
